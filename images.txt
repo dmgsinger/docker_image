@@ -1,2 +1,3 @@
 zhixinfang/maccms:latest
 mysql:5.7
+n8nio/n8n
