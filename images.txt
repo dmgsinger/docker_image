@@ -1,1 +1,3 @@
 diygod/rsshub
+redis
+nginx
