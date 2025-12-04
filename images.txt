@@ -1,1 +1,1 @@
-postgres
+miniflux/miniflux
